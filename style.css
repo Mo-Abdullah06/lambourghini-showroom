@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.nav-item {
+    margin-left: 59px !important;
+}
+
+.services {
+    margin: 10px;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    display: block;
+    width: 82vw;
+    margin: auto;
+
+}
+
+.abc {
+    margin: auto !important;
+}
+
+.card-title {
+    font-weight: bold;
+}
+.text-body{
+    color: white !important;
+}
+.card {
+    border: 2px groove black !important;
+}
+.nav-link{
+    cursor: pointer;
+    font-size: 20px !important;
+}
+.text-body{
+    color: white !important;
+}
